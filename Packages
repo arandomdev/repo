@@ -1,0 +1,18 @@
+Package: com.haotestlabs.sendtotop
+Architecture: iphoneos-arm
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: ArandomDev <haow6449@gmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debians/com.haotestlabs.sendtotop_1.0.0-1_iphoneos-arm.deb
+Size: 6814
+MD5sum: 291cc1c266a0147d37df3f6bf2632583
+SHA1: 437d264dbe533f70f5f3d5525a833e2498db74e1
+SHA256: 006236116a3293d0e50f257ffd64fcd85268182521db336791d9197c10aac62b
+SHA512: 2bf6c328870bcb9d9823110923f4957799cc8275c793571f5799c23e588a432c9afb365b1a2a88d707bd6966979f4b9cff5d24a244447f2ca131601db070a54a
+Description: Send Songs to the top by 3D Touch or a long press.
+Name: SendToTop
+Author: ArandomDev <haow6449@gmail.com>
+Depiction: https://arandomdev.github.io/cydia/depictions/?p=com.haotestlabs.sendtotop
+

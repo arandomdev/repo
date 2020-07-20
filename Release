@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: CODENAME_HERE
+Components: main
+Date: Mon, 20 Jul 2020 20:03:32 +0000
+Description: Main repo for ArandomDev's tweaks.
+Label: ArandomDev's Repo
+Origin: ArandomDev's Repo
+Suite: Main
+Version: 1.0
+MD5Sum:
+ 30257e03300c33dccc2bbe537961fee1              771 Packages
+ 20c4ebf4a1ef306185ac9d8b009be283              557 Packages.bz2
+ 4ef446d4f1e3e36e9aca9deca2980b10              515 Packages.gz
+ 5436202dfd8c19fcc63ab2a052b289b1              592 Packages.xz
+ 2da0dcb26e7222198cc13fd7b98ce58c              511 Packages.zst
+ 84ea79755f11b129f2714d2e8aec30ca              231 Release
+SHA1:
+ a19255224b7ba4aaf520ed6d66c1b52a678b376a              771 Packages
+ 79948ccb8299e8079a7e798fe73d150d4b9dca2d              557 Packages.bz2
+ 2c50485a71f7a5dd6745852c73d206c16db4bb6d              515 Packages.gz
+ 09ce23329b8694cf2f434ad08ae06f2c67c069aa              592 Packages.xz
+ 722e7f8b61f4721928662bbfdfeebc879aaad3c3              511 Packages.zst
+ 5b79873ba6ceb6d947b266e75cffa7fc668d5700              231 Release
+SHA256:
+ f2dd024fff74544fef98840af653c05794dacc88c806a81d3bfeea87b2f3091b              771 Packages
+ 73b6c9e266e8053e8d830ce50c998211b35b62e80450540f5db52426a1add16d              557 Packages.bz2
+ 8545b441e91b276af02a836ff1b03e525328d3785435b85fb6de451477217838              515 Packages.gz
+ 33fedc7413f2ab4a51320ddaefb43870a2341b896c1acf95301b622c795b9e34              592 Packages.xz
+ 56633ad63596b5b2dfaacf00dff878ece249157954a7865d3db3ac5a9c0ddd42              511 Packages.zst
+ 07eba04e0c8f10b327721121b58d1dcf5c1781c02b2a2f36f2f3a9bb616a2975              231 Release
+SHA512:
+ 199afe1bd3efe9312aa47722afcc1c79f372378111a6baf7ab1ca7658a1e61e9467a13291bf61bfe2830851b9748906f583481484e652583c9936f2e251fcb9e              771 Packages
+ 74485364730e338b044c7723111766de6db00412c6518892835787777c7c58bd3baf56589938a077b6b942245f0f96a224b0dc6cfccec9fc49a7042b948a24f5              557 Packages.bz2
+ d737ee8a6d05e754b22e530c17b7154ec56c86429035b48a03ee2579ddcf89c5ed61b6d570c9791a11ceeaabb52141272c1e1f05c343c9e5529bdf6b5779a667              515 Packages.gz
+ 63c9ae184f0f037fd7afb0d9b90a338ae0bb9cb9cee942bfdd502d4b4866203f2bc267b43f36ee92ec450de4ac9a1c049a75bddcf63942e8838dbcf346ad2c95              592 Packages.xz
+ d2dd0606ba078e3ab7506b64fd5f4c025d43a3571d35142e4beb65a700c956c2d5a15527ce6a08b35abd68d71f5e45ae32acd3d9fa8b11d6a772dd31ffc5ef98              511 Packages.zst
+ 4d5dab567f81b43f735b6448c21b698735b2b021153f8bff243f6f8e4a77e0ec2a16742f5a9b9a5dc1e7316929ffcbae4216a3f50a223588b31d358d27300892              231 Release
