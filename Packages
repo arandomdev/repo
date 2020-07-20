@@ -6,13 +6,13 @@ Maintainer: ArandomDev <haow6449@gmail.com>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debians/com.haotestlabs.sendtotop_1.0.0-1_iphoneos-arm.deb
-Size: 6814
-MD5sum: 291cc1c266a0147d37df3f6bf2632583
-SHA1: 437d264dbe533f70f5f3d5525a833e2498db74e1
-SHA256: 006236116a3293d0e50f257ffd64fcd85268182521db336791d9197c10aac62b
-SHA512: 2bf6c328870bcb9d9823110923f4957799cc8275c793571f5799c23e588a432c9afb365b1a2a88d707bd6966979f4b9cff5d24a244447f2ca131601db070a54a
+Size: 6996
+MD5sum: 31a2f0449c1c897310fa4be721e9d993
+SHA1: 2421650e5d4b7e12b65636123b3a90c42930dbdb
+SHA256: 7c87eb78636b909d55988f8e0bd72d2a65095a66e6cc0aefb3f9ad28fc6812ab
+SHA512: bd3ebbf5254fc683c9054588e38868681dfcb3d6218603217ced385e771edda48c5c2013cc29ba9e9066897a01888073f7a786ceccbf24054ef2c2122f403edd
 Description: Send Songs to the top by 3D Touch or a long press.
 Name: SendToTop
 Author: ArandomDev <haow6449@gmail.com>
-Depiction: https://arandomdev.github.io/cydia/depictions/?p=com.haotestlabs.sendtotop
+Depiction: https://arandomdev.github.io/repo/depictions/web/?p=com.haotestlabs.sendtotop
 
