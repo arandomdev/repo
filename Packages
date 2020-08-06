@@ -6,16 +6,15 @@ Maintainer: ArandomDev <Haow6449@gmail.com>
 Installed-Size: 149
 Depends: mobilesubstrate, ws.hbang.common (>= 1.14)
 Filename: ./debians/com.haotestlabs.alwaysclear_1.0.0.0_iphoneos-arm.deb
-Size: 7396
-MD5sum: f16f78fd24e824dd13c9ea0632e63e21
-SHA1: 14fce830fe70117672dd18d9888f7e4f0070eba1
-SHA256: 7a76922a22626bf072aa334196dab52f14a9056a4103ea24891bdf53304c285f
-SHA512: 623dbe1e716a449406eb2e1045a82c2e52aca870971236343184fd0b487185a16378def87cb21850197bf6ccc91d3c58b35e90dde43fbf03d9fad3b62faf39d3
+Size: 7372
+MD5sum: 29f469f4f753657e81f73386f589b775
+SHA1: 074f4b567a6aa18a0f1da38739d901cbed175070
+SHA256: 157e13796eb3529daf078f60a330e1523d8058bbc978a54fb26bfccd69652542
+SHA512: 35b1685db7dc5732d50982928a5c2b8a80838c04308c9e9a93c373f259eb90a141bfd67573074d1dbfcddb22e9d3315fb1ea3c0d8d73b86b41dff4b6c050b025
 Description: Get rid of that "Clear up next" alert in the music player!
 Name: AlwaysClear
 Author: ArandomDev <Haow6449@gmail.com>
 Depiction: https://arandomdev.github.io/repo/depictions/web/?p=com.haotestlabs.alwaysclear
-SileoDepiction: https://arandomdev.github.io/repo/depictions/native/com.haotestlabs.alwaysclear/depiction.json
 
 Package: com.haotestlabs.alwaysclear
 Architecture: iphoneos-arm
@@ -25,16 +24,15 @@ Maintainer: ArandomDev <Haow6449@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debians/com.haotestlabs.alwaysclear_1.1.0.1_iphoneos-arm.deb
-Size: 10232
-MD5sum: a7ffce9bf293963b4fb5f619aa526f7e
-SHA1: a095672c3a7f3545c1b96985aa43824a3732d552
-SHA256: 33acbcccbdf9af840f277bfa4d2a995b32fff72c77642523adb14f75f1c58966
-SHA512: 75212b25e3586368c15cab5b476b73a45dd0e1c38c929c5970142ba04310a6a3e479343eac828b6872e181317d95db52896373bc045516b50b1265f254501cab
+Size: 10212
+MD5sum: bafdbdc483e7b0dc60a0edffc853219c
+SHA1: 47f8c851e4ec443db3df2a6f3fe296f65cd4c2b5
+SHA256: 8ef954236053963e819c18b78c8f046df5a323b4ac7bdc69c97166530200e0e4
+SHA512: 0ad772a305450b1477b83271c5e126fe50d5bf04bf006f71bf63ae7e4a7bf84c2696f867305e24a2598972c91c5b20967757cd050464fd5bd0764be8ff637220
 Description: Get rid of that "Clear up next" alert in the music player!
 Name: AlwaysClear
 Author: ArandomDev <Haow6449@gmail.com>
 Depiction: https://arandomdev.github.io/repo/depictions/web/?p=com.haotestlabs.alwaysclear
-SileoDepiction: https://arandomdev.github.io/repo/depictions/native/com.haotestlabs.alwaysclear/depiction.json
 
 Package: com.haotestlabs.alwaysclear
 Architecture: iphoneos-arm
@@ -44,16 +42,15 @@ Maintainer: ArandomDev <Haow6449@gmail.com>
 Installed-Size: 216
 Depends: mobilesubstrate
 Filename: ./debians/com.haotestlabs.alwaysclear_1.1.0.2_iphoneos-arm.deb
-Size: 11156
-MD5sum: 374bd80d2ee396be036c11e6061aa485
-SHA1: b8dea8034724a018073ab18ae22549c81879a899
-SHA256: d68a513674a533511bc495b925d782c31536def59514fea44ecdac0c4b9a7972
-SHA512: 8ed738d9473fbab79ebb5db5292548614fbaf425f46ba943ac1d0c94b1fd85730a1de1c039fe09f444a08aaa2cb991b79f91db3d1a294657d2dc133aa256c5d9
+Size: 11136
+MD5sum: 1aa91ad25226f15c9b1b5dbb0b6a4872
+SHA1: b20b09d5ad88e0a0308bb29a36772924e8937a1c
+SHA256: 67ef2605c326662dc13b0310dde740b7e05611858c79382930d52165f271da74
+SHA512: 2d3b7b1eb644019a810c838f9648626d7552c1966d8162cca4f04daee2ad91a714ea6570a29f4109fcbc44dda8a0033995543322fac475142b0b5b59b21fade7
 Description: Get rid of that "Clear up next" alert in the music player!
 Name: AlwaysClear
 Author: ArandomDev <Haow6449@gmail.com>
 Depiction: https://arandomdev.github.io/repo/depictions/web/?p=com.haotestlabs.alwaysclear
-SileoDepiction: https://arandomdev.github.io/repo/depictions/native/com.haotestlabs.alwaysclear/depiction.json
 
 Package: com.haotestlabs.alwaysclear
 Architecture: iphoneos-arm
@@ -63,16 +60,15 @@ Maintainer: ArandomDev <Haow6449@gmail.com>
 Installed-Size: 216
 Depends: mobilesubstrate
 Filename: ./debians/com.haotestlabs.alwaysclear_1.1.1.0_iphoneos-arm.deb
-Size: 11160
-MD5sum: bd43252fa6f0d4391b2217c53a2c8a32
-SHA1: 512a956dc154875ba9cac537207b394d32d5fca0
-SHA256: 90dc83bddbd7074e4b38685c2a94e822d7e3c26e4b011ade99b2b52336d4c87e
-SHA512: 22b20740e2f79aeee07915230d970440035d37f4b698055e1839011ebe94a7e856104e87253e96829a6c0a6b1a796fb9fcced1320d3c229d4826f060b39078b9
+Size: 11144
+MD5sum: 9441720d2b9b73e22c7b48254cdf1f0f
+SHA1: aee5bf701125c7849611907d30171d0bb7d905be
+SHA256: b54c9f92a027445415d97b056604455dbf4f4ec5c10a11b9d3b4a762f683c8cc
+SHA512: dafbfae1fb5b879d7e0e128991bd203c42f54716f5b5b181ef29739297f7808ad7f9d363ddf801d69323a4ddf15d1376b18a030bfa897c10d7495f70a9e98f50
 Description: Get rid of that "Clear up next" alert in the music player!
 Name: AlwaysClear
 Author: ArandomDev <Haow6449@gmail.com>
-Depiction: https://arandomdev.github.io/repo/depictions/web/?p=com.haotestlabs.alwaysclear
-SileoDepiction: https://arandomdev.github.io/repo/depictions/native/com.haotestlabs.alwaysclear/depiction.json
+Depiction: https://arandomdev.github.io/repo/FAKE/depictions/web/?p=com.haotestlabs.alwaysclear
 
 Package: com.haotestlabs.betterqueuing
 Architecture: iphoneos-arm
