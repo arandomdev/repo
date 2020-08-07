@@ -106,6 +106,24 @@ Name: BetterQueuing
 Author: ArandomDev <Haow6449@gmail.com>
 Depiction: https://arandomdev.github.io/repo/depictions/web/?p=com.haotestlabs.betterqueuing
 
+Package: com.haotestlabs.betterqueuing
+Architecture: iphoneos-arm
+Version: 2.0.0
+Section: Tweaks
+Maintainer: ArandomDev <Haow6449@gmail.com>
+Installed-Size: 388
+Depends: mobilesubstrate
+Filename: ./debians/com.haotestlabs.betterqueuing_2.0.0_iphoneos-arm.deb
+Size: 38328
+MD5sum: 4e273be8028605fb1ca274abef03e083
+SHA1: aad95567a57f41ab9729b2df69850e4e4de5c3b2
+SHA256: 81126a05c66c5dd7284c08fc0bcd09c4e1b1ac1383001b0bd94762ff02e61ab5
+SHA512: 4264bdec20ac07b371cbe182a1ec1e7974eaa587e566f60fc64e547be775fcdec84d28a6edfd07303248178fe6bd2fd2309c9a2a9c225ab4c6e17395a939ee53
+Description: Adds better ways to queue songs in the Music App.
+Name: BetterQueuing
+Author: ArandomDev <Haow6449@gmail.com>
+Depiction: https://arandomdev.github.io/repo/depictions/web/?p=com.haotestlabs.betterqueuing
+
 Package: com.haotestlabs.fastauthentication
 Architecture: iphoneos-arm
 Version: 1.0.0-1

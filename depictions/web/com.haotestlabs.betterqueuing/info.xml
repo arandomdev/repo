@@ -1,7 +1,7 @@
 <package>
 	<id>com.haotestlabs.betterqueuing</id>
 	<name>BetterQueuing</name>
-	<version>1.0.2</version>
+	<version>2.0.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -20,10 +20,14 @@
 		<screenshot>
 			<description>Queue lots of songs easily.</description>
 			<image>QueueScreen.PNG</image>
-		</screenshot>		
+		</screenshot>
+		<screenshot>
+			<description>And much more!</description>
+			<image>Settings.png</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Fix small bug where it will crash when queuing.</change>
+		<change>Added a setting page, more features, and fixed some bugs</change>
 	</changelog>
 	<links></links>
 </package>
