@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>2.2.0</version>
+		<change>Added a swipe gesture to play a song next (iOS 14 only).</change>
+	</changes>
+	<changes>
 		<version>2.1.0</version>
 		<change>Fixed some issues with iOS 14.</change>
 	</changes>
